@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("bixao user says hello");
 		System.out.println("rafaelrabelo user says hello again");
 		System.out.println("rafaelrabelo is back");
+		System.out.println("rafaelrabelo is back 2");
 	}
 
 }
